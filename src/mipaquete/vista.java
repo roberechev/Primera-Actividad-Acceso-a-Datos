@@ -14,7 +14,6 @@ public class vista {
 	public void insertarV() {
 		String separador = ",";
 		System.out.println("Nombre: ");
-		System.out.println();
 		String texto1 = sc.nextLine();
 		System.out.println("email: ");
 		String texto2 = sc.nextLine();
